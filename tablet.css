@@ -1,0 +1,6 @@
+#courses #course .course-content{
+    display: flex;
+    flex-direction: row;
+    margin-right: 10%;
+    margin-left: 10%;
+}

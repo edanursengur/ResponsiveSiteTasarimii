@@ -1,0 +1,23 @@
+#navbar {
+ flex-direction: column;   
+ overflow: hidden;
+ padding: 1%;
+ height: 80px;
+
+}
+#navbar ul li a{
+    padding-top:0.1rem ;
+}
+
+/**Training*/
+#training .items{
+    display: flex;
+    flex-direction: column;
+}
+/*Coursa*/
+#courses #course .course-content{
+    display: flex;
+    flex-direction: column;
+    margin-right: 10%;
+    margin-left: 10%;
+}
